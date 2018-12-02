@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AdventOfCode2018-2", "AdventOfCode2018-2\AdventOfCode2018-2.pyproj", "{E05DD48F-3629-440E-A41F-9A856BF7AF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E05DD48F-3629-440E-A41F-9A856BF7AF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05DD48F-3629-440E-A41F-9A856BF7AF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48D3DCA-87F8-4750-9290-88464E0339B3}
+	EndGlobalSection
+EndGlobal
